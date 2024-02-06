@@ -1,0 +1,10 @@
+﻿crazy,beautiful,lazy,ugly,B
+think,hope,suggest,ask,A
+wrong,welcome,important,interesting,A
+lessons,symbols,novels,results,D
+stupid,interested,sad,glad,C
+although,if,before,even though,B
+sees,likes,wakes,catches,B
+suddenly,early,recently,together,D
+better,angrier,busier,heavier,A
+purpose,opinion,friendship,habit,C
